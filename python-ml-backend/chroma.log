@@ -1,0 +1,178 @@
+[33mWARNING[0m:  [04-07-2025 13:38:00] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [04-07-2025 13:38:01] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [04-07-2025 13:38:01] Starting component System
+[36mDEBUG[0m:    [04-07-2025 13:38:01] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [04-07-2025 13:38:01] Starting component SqliteDB
+[36mDEBUG[0m:    [04-07-2025 13:38:01] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [04-07-2025 13:38:01] Starting component Posthog
+[36mDEBUG[0m:    [04-07-2025 13:38:01] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [04-07-2025 13:38:01] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [04-07-2025 13:38:01] Starting component LocalExecutor
+[36mDEBUG[0m:    [04-07-2025 13:38:01] Starting component SegmentAPI
+[31mERROR[0m:    [04-07-2025 13:38:01] Failed to send telemetry event ServerStartEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [04-07-2025 13:38:01] Started server process [[36m14276[0m]
+[32mINFO[0m:     [04-07-2025 13:38:01] Waiting for application startup.
+[32mINFO[0m:     [04-07-2025 13:38:01] Application startup complete.
+[32mINFO[0m:     [04-07-2025 13:38:01] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [04-07-2025 13:38:29] ::1:62952 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 13:38:29] ::1:62952 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 13:38:29] ::1:62953 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:04:25] ::1:63661 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:04:25] ::1:63661 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:04:25] ::1:63662 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[33mWARNING[0m:  [04-07-2025 14:05:34] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [04-07-2025 14:05:34] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [04-07-2025 14:05:34] Starting component System
+[36mDEBUG[0m:    [04-07-2025 14:05:34] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [04-07-2025 14:05:34] Starting component SqliteDB
+[36mDEBUG[0m:    [04-07-2025 14:05:34] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [04-07-2025 14:05:34] Starting component Posthog
+[36mDEBUG[0m:    [04-07-2025 14:05:34] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [04-07-2025 14:05:34] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [04-07-2025 14:05:34] Starting component LocalExecutor
+[36mDEBUG[0m:    [04-07-2025 14:05:34] Starting component SegmentAPI
+[31mERROR[0m:    [04-07-2025 14:05:34] Failed to send telemetry event ServerStartEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [04-07-2025 14:05:34] Started server process [[36m24352[0m]
+[32mINFO[0m:     [04-07-2025 14:05:34] Waiting for application startup.
+[32mINFO[0m:     [04-07-2025 14:05:34] Application startup complete.
+[32mINFO[0m:     [04-07-2025 14:05:34] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [04-07-2025 14:06:01] ::1:63685 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:06:01] ::1:63685 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:06:01] ::1:63686 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:10:19] ::1:63767 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:10:19] ::1:63767 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:10:19] ::1:63768 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[33mWARNING[0m:  [04-07-2025 14:16:33] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [04-07-2025 14:16:34] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [04-07-2025 14:16:34] Starting component System
+[36mDEBUG[0m:    [04-07-2025 14:16:34] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [04-07-2025 14:16:34] Starting component SqliteDB
+[36mDEBUG[0m:    [04-07-2025 14:16:34] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [04-07-2025 14:16:34] Starting component Posthog
+[36mDEBUG[0m:    [04-07-2025 14:16:34] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [04-07-2025 14:16:34] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [04-07-2025 14:16:34] Starting component LocalExecutor
+[36mDEBUG[0m:    [04-07-2025 14:16:34] Starting component SegmentAPI
+[31mERROR[0m:    [04-07-2025 14:16:34] Failed to send telemetry event ServerStartEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [04-07-2025 14:16:34] Started server process [[36m19380[0m]
+[32mINFO[0m:     [04-07-2025 14:16:34] Waiting for application startup.
+[32mINFO[0m:     [04-07-2025 14:16:34] Application startup complete.
+[32mINFO[0m:     [04-07-2025 14:16:34] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [04-07-2025 14:16:49] ::1:64002 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:16:49] ::1:64002 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:16:49] ::1:64003 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[33mWARNING[0m:  [04-07-2025 14:29:35] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [04-07-2025 14:29:36] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [04-07-2025 14:29:36] Starting component System
+[36mDEBUG[0m:    [04-07-2025 14:29:36] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [04-07-2025 14:29:36] Starting component SqliteDB
+[36mDEBUG[0m:    [04-07-2025 14:29:36] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [04-07-2025 14:29:36] Starting component Posthog
+[36mDEBUG[0m:    [04-07-2025 14:29:36] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [04-07-2025 14:29:36] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [04-07-2025 14:29:36] Starting component LocalExecutor
+[36mDEBUG[0m:    [04-07-2025 14:29:36] Starting component SegmentAPI
+[31mERROR[0m:    [04-07-2025 14:29:36] Failed to send telemetry event ServerStartEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [04-07-2025 14:29:36] Started server process [[36m18836[0m]
+[32mINFO[0m:     [04-07-2025 14:29:36] Waiting for application startup.
+[32mINFO[0m:     [04-07-2025 14:29:36] Application startup complete.
+[32mINFO[0m:     [04-07-2025 14:29:36] Uvicorn running on [1mhttp://localhost:8001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [04-07-2025 14:29:58] ::1:64366 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:29:58] ::1:64366 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:29:58] ::1:64367 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 14:30:14] ::1:64378 - "POST /api/upload HTTP/1.1" 404
+[32mINFO[0m:     [04-07-2025 14:32:02] ::1:64499 - "POST /api/upload HTTP/1.1" 404
+[33mWARNING[0m:  [04-07-2025 15:14:11] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [04-07-2025 15:14:11] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [04-07-2025 15:14:11] Starting component System
+[36mDEBUG[0m:    [04-07-2025 15:14:11] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [04-07-2025 15:14:11] Starting component SqliteDB
+[36mDEBUG[0m:    [04-07-2025 15:14:11] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [04-07-2025 15:14:12] Starting component Posthog
+[36mDEBUG[0m:    [04-07-2025 15:14:12] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [04-07-2025 15:14:12] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [04-07-2025 15:14:12] Starting component LocalExecutor
+[36mDEBUG[0m:    [04-07-2025 15:14:12] Starting component SegmentAPI
+[31mERROR[0m:    [04-07-2025 15:14:12] Failed to send telemetry event ServerStartEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [04-07-2025 15:14:12] Started server process [[36m23004[0m]
+[32mINFO[0m:     [04-07-2025 15:14:12] Waiting for application startup.
+[32mINFO[0m:     [04-07-2025 15:14:12] Application startup complete.
+[32mINFO[0m:     [04-07-2025 15:14:12] Uvicorn running on [1mhttp://localhost:8001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [04-07-2025 15:14:28] ::1:65494 - "GET /api/v2/auth/identity HTTP/1.1" 404
+[33mWARNING[0m:  [04-07-2025 16:28:04] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [04-07-2025 16:28:05] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [04-07-2025 16:28:05] Starting component System
+[36mDEBUG[0m:    [04-07-2025 16:28:05] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [04-07-2025 16:28:05] Starting component SqliteDB
+[36mDEBUG[0m:    [04-07-2025 16:28:05] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [04-07-2025 16:28:05] Starting component Posthog
+[36mDEBUG[0m:    [04-07-2025 16:28:05] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [04-07-2025 16:28:05] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [04-07-2025 16:28:05] Starting component LocalExecutor
+[36mDEBUG[0m:    [04-07-2025 16:28:05] Starting component SegmentAPI
+[31mERROR[0m:    [04-07-2025 16:28:05] Failed to send telemetry event ServerStartEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [04-07-2025 16:28:05] Started server process [[36m13784[0m]
+[32mINFO[0m:     [04-07-2025 16:28:05] Waiting for application startup.
+[32mINFO[0m:     [04-07-2025 16:28:05] Application startup complete.
+[32mINFO[0m:     [04-07-2025 16:28:05] Uvicorn running on [1mhttp://localhost:8001[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [04-07-2025 16:28:17] ::1:50625 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:28:17] ::1:50625 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:28:17] ::1:50626 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:29:51] ::1:50684 - "POST /api/upload HTTP/1.1" 404
+[32mINFO[0m:     [04-07-2025 16:40:36] ::1:50833 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:40:36] ::1:50833 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:40:36] ::1:50834 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:40:44] ::1:50854 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:40:44] ::1:50854 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:40:44] ::1:50855 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:41:34] ::1:50919 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:41:34] ::1:50919 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:41:34] ::1:50920 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:42:41] ::1:50977 - "POST /api/upload HTTP/1.1" 404
+[32mINFO[0m:     [04-07-2025 16:47:26] ::1:51019 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:47:26] ::1:51019 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:47:26] ::1:51020 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:47:57] ::1:51026 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:47:57] ::1:51026 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:47:57] ::1:51027 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:48:18] ::1:51034 - "POST /api/upload HTTP/1.1" 404
+[32mINFO[0m:     [04-07-2025 16:48:38] ::1:51038 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:48:38] ::1:51038 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:48:38] ::1:51039 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:48:48] ::1:51044 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:48:48] ::1:51044 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:48:48] ::1:51045 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 16:53:46] ::1:51102 - "POST /api/upload HTTP/1.1" 404
+[32mINFO[0m:     [04-07-2025 16:53:52] ::1:51103 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [04-07-2025 16:54:13] Shutting down
+[32mINFO[0m:     [04-07-2025 16:54:13] Waiting for application shutdown.
+[36mDEBUG[0m:    [04-07-2025 16:54:13] Stopping component System
+[36mDEBUG[0m:    [04-07-2025 16:54:13] Stopping component SegmentAPI
+[36mDEBUG[0m:    [04-07-2025 16:54:13] Stopping component LocalExecutor
+[36mDEBUG[0m:    [04-07-2025 16:54:13] Stopping component LocalSegmentManager
+[36mDEBUG[0m:    [04-07-2025 16:54:13] Stopping component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [04-07-2025 16:54:13] Stopping component Posthog
+[36mDEBUG[0m:    [04-07-2025 16:54:13] Stopping component QuotaEnforcer
+[36mDEBUG[0m:    [04-07-2025 16:54:13] Stopping component SqliteDB
+[36mDEBUG[0m:    [04-07-2025 16:54:13] Stopping component OpenTelemetryClient
+[32mINFO[0m:     [04-07-2025 16:54:13] Application shutdown complete.
+[32mINFO[0m:     [04-07-2025 16:54:13] Finished server process [[36m13784[0m]
+[33mWARNING[0m:  [04-07-2025 17:55:28] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [04-07-2025 17:55:28] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [04-07-2025 17:55:28] Starting component System
+[36mDEBUG[0m:    [04-07-2025 17:55:28] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [04-07-2025 17:55:28] Starting component SqliteDB
+[36mDEBUG[0m:    [04-07-2025 17:55:29] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [04-07-2025 17:55:29] Starting component Posthog
+[36mDEBUG[0m:    [04-07-2025 17:55:29] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [04-07-2025 17:55:29] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [04-07-2025 17:55:29] Starting component LocalExecutor
+[36mDEBUG[0m:    [04-07-2025 17:55:29] Starting component SegmentAPI
+[31mERROR[0m:    [04-07-2025 17:55:29] Failed to send telemetry event ServerStartEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [04-07-2025 17:55:29] Started server process [[36m12968[0m]
+[32mINFO[0m:     [04-07-2025 17:55:29] Waiting for application startup.
+[32mINFO[0m:     [04-07-2025 17:55:29] Application startup complete.
+[32mINFO[0m:     [04-07-2025 17:55:29] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [04-07-2025 17:55:57] ::1:51905 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 17:55:57] ::1:51905 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [04-07-2025 17:55:57] ::1:51906 - "GET /api/v1/heartbeat HTTP/1.1" 200
