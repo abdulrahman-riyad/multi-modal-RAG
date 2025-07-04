@@ -20,7 +20,7 @@ type UploadStatus = {
     progress: number;
 };
 
-const PYTHON_API_URL = "http://localhost:8001";
+const PYTHON_API_URL = process.env.NEXT_PUBLIC_PYTHON_API_URL;
 
 // --- Child Components (Defined Outside) ---
 
