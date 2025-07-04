@@ -89,9 +89,3 @@ cd multi-modal-RAG
     ```bash
     npm run dev
     ```
-
-### Step 5: Open the Application
-
-Your application is now running! Open your web browser and navigate to:
-
-**[http://localhost:3000](http://localhost:3000)**
