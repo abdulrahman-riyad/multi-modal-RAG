@@ -74,7 +74,7 @@ cd multi-modal-RAG
     uvicorn app.main:app --host 0.0.0.0 --port 8001 --reload
     ```
 
-### Step 4: Set Up and Run the Next.js Frontend
+### Step 4: Locally Set Up and Run the Next.js Frontend
 
 1.  Open a **new terminal**.
 2.  Navigate to the frontend directory and install the dependencies:
@@ -89,3 +89,9 @@ cd multi-modal-RAG
     ```bash
     npm run dev
     ```
+
+### Step 5: Open the Application
+
+Your application is now running! Open your web browser and navigate to:
+
+**[http://localhost:3000](http://localhost:3000)**
